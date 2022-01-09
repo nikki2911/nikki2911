@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @nikki2911
 - 👀 I’m interested in Programming and Web developing.
 - 🌱 I’m currently learning Web developing.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I'm keen learner and passionate for my work.
 
 <!---
 nikki2911/nikki2911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
