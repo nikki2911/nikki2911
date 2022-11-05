@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nikki2911
-- 👀 I’m interested in Programming and Web developing.
-- 🌱 I’m currently learning Web developing.
+
 I'm keen learner and passionate for my work.
 
 <!---
